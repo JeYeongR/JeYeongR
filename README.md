@@ -26,14 +26,5 @@
 
 </div>
 
-<br>
-<br>
-
-<h1 align='center'><i>📧Email📧</i></h1>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/wpdud2003@gmail.com-grey?style=flat-square&logo=gmail&logoColor=red"  height="30"/>
-</p>
-
 
 
