@@ -5,28 +5,15 @@
 <br>
 <br>
 
-<p align="center">
-    <Strong>⚒️Skills⚒️</Strong>
-</p>
+<h2 align='center'><i>⚒️Skills⚒️</i></h2>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Java-grey?style=flat-for-the-badge&logo=openJDK&logoColor=red"> 
-    <img src="https://img.shields.io/badge/Spring-grey?style=flat-for-the-badge&logo=spring&logoColor=green">
-    <img src="https://img.shields.io/badge/JavaScript-grey?style=flat-for-the-badge&logo=JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-grey?style=flat-for-the-badge&logo=TypeScript">
-    <img src="https://img.shields.io/badge/ExpressJS-grey?style=flat-for-the-badge&logo=Express">
-    <img src="https://img.shields.io/badge/NestJS-grey?style=flat-for-the-badge&logo=NestJS&logoColor=red">
-</p>
-
-<br>
-<br>
-
-<p align="center">
-    <Strong>📧Email📧</Strong>
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/wpdud2003@gmail.com-grey?style=flat-square&logo=gmail&logoColor=red">
+    <img src="https://img.shields.io/badge/Java-grey?style=flat-for-the-badge&logo=openJDK&logoColor=red" height="30"/> 
+    <img src="https://img.shields.io/badge/Spring-grey?style=flat-for-the-badge&logo=spring&logoColor=green" height="30"/>
+    <img src="https://img.shields.io/badge/JavaScript-grey?style=flat-for-the-badge&logo=JavaScript" height="30"/>
+    <img src="https://img.shields.io/badge/JavaScript-grey?style=flat-for-the-badge&logo=TypeScript" height="30"/>
+    <img src="https://img.shields.io/badge/ExpressJS-grey?style=flat-for-the-badge&logo=Express" height="30"/>
+    <img src="https://img.shields.io/badge/NestJS-grey?style=flat-for-the-badge&logo=NestJS&logoColor=red" height="30"/>
 </p>
 
 <br>
