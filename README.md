@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Java-grey?style=flat-for-the-badge&logo=openJDK&logoColor=red" height="30"/> 
     <img src="https://img.shields.io/badge/Spring-grey?style=flat-for-the-badge&logo=spring&logoColor=green" height="30"/>
     <img src="https://img.shields.io/badge/JavaScript-grey?style=flat-for-the-badge&logo=JavaScript" height="30"/>
-    <img src="https://img.shields.io/badge/JavaScript-grey?style=flat-for-the-badge&logo=TypeScript" height="30"/>
+    <img src="https://img.shields.io/badge/TypeScript-grey?style=flat-for-the-badge&logo=TypeScript" height="30"/>
     <img src="https://img.shields.io/badge/ExpressJS-grey?style=flat-for-the-badge&logo=Express" height="30"/>
     <img src="https://img.shields.io/badge/NestJS-grey?style=flat-for-the-badge&logo=NestJS&logoColor=red" height="30"/>
 </p>
