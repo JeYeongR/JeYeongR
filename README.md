@@ -32,8 +32,8 @@
 <br>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeYeongR&theme=dark&show_icons=true&layout=donut" height="200"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JeYeongR&show_icons=true&theme=dark&count_private=true" height="200"/>
+    <img src="https://github-stats-extended.vercel.app/top-langs/?username=JeYeongR&theme=dark&show_icons=true&layout=donut" height="200"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=JeYeongR&show_icons=true&theme=dark&count_private=true" height="200"/>
 
 
 
